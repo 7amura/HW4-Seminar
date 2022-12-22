@@ -1,0 +1,15 @@
+/Users/daria/Desktop/lection_C#/4seminar/task_24/bin/Debug/net7.0/task_24
+/Users/daria/Desktop/lection_C#/4seminar/task_24/bin/Debug/net7.0/task_24.deps.json
+/Users/daria/Desktop/lection_C#/4seminar/task_24/bin/Debug/net7.0/task_24.runtimeconfig.json
+/Users/daria/Desktop/lection_C#/4seminar/task_24/bin/Debug/net7.0/task_24.dll
+/Users/daria/Desktop/lection_C#/4seminar/task_24/bin/Debug/net7.0/task_24.pdb
+/Users/daria/Desktop/lection_C#/4seminar/task_24/obj/Debug/net7.0/task_24.csproj.AssemblyReference.cache
+/Users/daria/Desktop/lection_C#/4seminar/task_24/obj/Debug/net7.0/task_24.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daria/Desktop/lection_C#/4seminar/task_24/obj/Debug/net7.0/task_24.AssemblyInfoInputs.cache
+/Users/daria/Desktop/lection_C#/4seminar/task_24/obj/Debug/net7.0/task_24.AssemblyInfo.cs
+/Users/daria/Desktop/lection_C#/4seminar/task_24/obj/Debug/net7.0/task_24.csproj.CoreCompileInputs.cache
+/Users/daria/Desktop/lection_C#/4seminar/task_24/obj/Debug/net7.0/task_24.dll
+/Users/daria/Desktop/lection_C#/4seminar/task_24/obj/Debug/net7.0/refint/task_24.dll
+/Users/daria/Desktop/lection_C#/4seminar/task_24/obj/Debug/net7.0/task_24.pdb
+/Users/daria/Desktop/lection_C#/4seminar/task_24/obj/Debug/net7.0/task_24.genruntimeconfig.cache
+/Users/daria/Desktop/lection_C#/4seminar/task_24/obj/Debug/net7.0/ref/task_24.dll
